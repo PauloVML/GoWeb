@@ -1,4 +1,4 @@
-module GoWeb
+module github.com/PauloVML/GoWeb
 
 go 1.20
 
